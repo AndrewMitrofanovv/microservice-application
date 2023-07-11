@@ -3,4 +3,5 @@ rootProject.name = 'microservice-application'
 includeBuild 'eureka-server'
 includeBuild 'eureka-client'
 includeBuild 'api-gateway'
+includeBuild 'github-config-server'
 
